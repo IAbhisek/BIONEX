@@ -4,7 +4,7 @@ A cost-effective, open-source 3D printed prosthetic robotic arm powered by EMG-b
 
 ## 🚀 Live Demo
 
-Visit the project: [Bionex Website](https://github.com/IAbhisek/BIONEX)
+Visit the project: [Bionex Website](https://bionex-one.vercel.app/)
 
 ## ⚙️ Features
 
