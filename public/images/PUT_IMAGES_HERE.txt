@@ -1,0 +1,1 @@
+Put your Bionex images here with exact names listed in IMAGE_SETUP.txt

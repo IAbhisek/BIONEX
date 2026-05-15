@@ -1,0 +1,11 @@
+Paste your images in public/images with these exact names:
+
+1. bionex-front-hand.jpg
+2. bionex-inner-circuit.jpg
+3. power-supply-ac.jpg
+4. power-supply-battery.jpg
+5. system-overview.jpg
+
+Then run:
+npm install
+npm run dev
